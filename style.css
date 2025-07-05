@@ -39,18 +39,18 @@ footer {
     text-align: center;
 }
 
-.tel {
+footer .tel {
     margin-top: 10px;
 }
 
-.footer-imgs {
+footer .footer-imgs {
     display: flex;
     justify-content: center;
     gap: 10px;
     margin-top: 20px;
 }
 
-.foot__logo {
+footer .foot__logo {
     margin-top: 20px;
     max-width: 150px;
 }
