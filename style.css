@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightgrey;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 0, 0);
+}
+
+header img {
+    max-width: 130px;
+}
+
+header div p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.cont__right {
+    float: right;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: center;
+}
+
+footer .tel {
+    margin-top: 10px;
+}
+
+footer .footer-imgs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+footer .foot__logo {
+    margin-top: 20px;
+    max-width: 150px;
+}
